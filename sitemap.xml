@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/02/01/Swift-Compiler-Command-Line-Tool/</loc>
+    <lastmod>2016-02-01T04:29:52.000Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2016/01/27/Swift%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8D%EF%BC%8DOptionSetType/</loc>
     <lastmod>2016-01-27T12:16:51.000Z</lastmod>
   </url>
